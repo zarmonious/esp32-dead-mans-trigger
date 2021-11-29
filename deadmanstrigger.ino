@@ -1,5 +1,3 @@
-#include <dummy.h>
-
 /*******************************************************************
   based of the code of Brian Lough
   https://github.com/witnessmenow
